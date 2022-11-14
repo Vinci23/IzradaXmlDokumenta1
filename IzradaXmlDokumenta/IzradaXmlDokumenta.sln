@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzradaXmlDokumenta", "IzradaXmlDokumenta.csproj", "{C3DA0BC9-1A37-4219-82BB-CBCFFA3A1CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DA0BC9-1A37-4219-82BB-CBCFFA3A1CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DA0BC9-1A37-4219-82BB-CBCFFA3A1CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DA0BC9-1A37-4219-82BB-CBCFFA3A1CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DA0BC9-1A37-4219-82BB-CBCFFA3A1CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C34AF3-33A4-46F9-84D1-B136038DB001}
+	EndGlobalSection
+EndGlobal

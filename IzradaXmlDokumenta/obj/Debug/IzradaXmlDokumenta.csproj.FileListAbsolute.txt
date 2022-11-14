@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\bin\Debug\IzradaXmlDokumenta.exe.config
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\bin\Debug\IzradaXmlDokumenta.exe
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\bin\Debug\IzradaXmlDokumenta.pdb
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\obj\Debug\IzradaXmlDokumenta.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\obj\Debug\IzradaXmlDokumenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\obj\Debug\IzradaXmlDokumenta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\obj\Debug\IzradaXmlDokumenta.exe
+C:\Users\ucenik\source\repos\IzradaXmlDokumenta\obj\Debug\IzradaXmlDokumenta.pdb
